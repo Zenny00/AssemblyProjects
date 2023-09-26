@@ -1,5 +1,5 @@
-# AssemblyProjects
-A repository of my experimentation with x86 Assembly. Starting with a simple "Hello World!" program, I will attempt to make my way into working with I/O. Overall, I will attempt to build a total of ten unique programs to help me gain familiarity with the language.
+# Assembly Projects
+A repository of my experimentation with x86 Assembly. Starting with a simple "Hello World!" program, I will attempt to make my way into working with I/O and control flow. Overall, I will attempt to build a total of ten unique programs to help me gain familiarity with the language.
 
 ## Resources:
 
@@ -10,7 +10,7 @@ I am starting this learning process by following Davy Wybiral's YouTube series, 
 
 ## Assembling and Linking
 
-To assemble assembly code I am using the nasm assembler. This can be installed on Debain distributions as follows:
+To assemble assembly code I am using the nasm assembler. This can be installed on Debian distributions as follows:
 sudo apt install nasm
 
 These are the commands I am running to assemble and link my assembly code:
