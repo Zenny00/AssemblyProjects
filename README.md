@@ -28,3 +28,9 @@ ld -m elf_i386 object.o -o executable
 A simple program that uses interrupts and system calls to print a simple "Hello, World!" message to the console.
 
 ![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/ee72f9a2-ffda-4ed2-8e01-62e417ad0c86)
+
+### JumpOperation.asm
+
+This is a program that utilizes the jmp operation to skip over a line of code and exit the program with a status of 42.
+
+![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/dffab1eb-81e3-4adc-805e-d1bd44ba557c)
