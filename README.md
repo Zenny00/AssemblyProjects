@@ -29,8 +29,18 @@ A simple program that uses interrupts and system calls to print a simple "Hello,
 
 ![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/ee72f9a2-ffda-4ed2-8e01-62e417ad0c86)
 
-### JumpOperation.asm
+### jump_operation.asm
 
 This is a program that utilizes the jmp operation to skip over a line of code and exit the program with a status of 42.
 
 ![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/dffab1eb-81e3-4adc-805e-d1bd44ba557c)
+
+### conditional_jump.asm
+
+This program has a simple conditional statement to compare the value stored in the ecx register to the value 100.
+
+#### ecx is set to 99:
+![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/89885db8-a3ac-4a27-a7ce-c462b8cb9578)
+
+#### ecx is set to 100:
+![image](https://github.com/Zenny00/AssemblyProjects/assets/99524099/83234994-e3cc-4d3c-b775-e550719fa77f)
