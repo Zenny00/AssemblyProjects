@@ -1,6 +1,13 @@
 # AssemblyProjects
 A repository of my experimentation with x86 Assembly. Starting with a simple "Hello World!" program, I will attempt to make my way into working with I/O. Overall, I will attempt to build a total of ten unique programs to help me gain familiarity with the language.
 
+## Resources:
+
+I am starting this learning process by following Davy Wybiral's YouTube series, "Intro to x86 assembly language"
+
+- Intro to x86 assembly language: https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
+- x86 instruction set documentation: https://www.felixcloutier.com/x86/
+
 ## Assembling and Linking
 
 To assemble assembly code I am using the nasm assembler. This can be installed on Debain distributions as follows:
